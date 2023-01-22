@@ -484,6 +484,11 @@ h6 {
 {
   margin-top: 25vh;
 }
+  #hero .hero-container .container img
+  {
+  width :300px;
+  height: auto;
+  }
 }
 
 @media (max-width: 768px) {
